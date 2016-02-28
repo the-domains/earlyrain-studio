@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Earlyrain Studio]]></title>
+        <description><![CDATA[Earlyrain Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 18:16:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi! I’m Chris!  If you would
+have told me twenty years ago that I was going to be an artist and a landscape photographer
+as my day job, I would have looked at you sideways. I am a self-taught
+painter and image engineer – a closet painter for over 30 years and taking
+photographs for over 40… I can’t believe that it’s been that long. My passion
+for both has grown one day at a time. Every moment that I spend in the field sketching,
+painting or shooting, I consider a blessing. The pace of daily life fades to
+black and the Lord’s amazing creation takes center stage. I focus on creating
+images that have photographic authenticity… Photos that evoke a sense of wonder
+and paintings that make you want to step into the canvas. I have my beautiful
+wife Naomi that supports my efforts to be the best I can be in my work and in
+my life. I have my wonderful children that I am thankful proud of… and I have
+my Lord with whom I walk every day. What more do I need?</p>]]></description>
+            <link>undefineda31c8166-5d24-4664-8bee-65ba506d660a/index.html</link>
+            <guid isPermaLink="false">a31c8166-5d24-4664-8bee-65ba506d660a</guid>
+            <pubDate>Sun, 28 Feb 2016 18:16:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
