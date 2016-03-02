@@ -2,10 +2,23 @@
     <channel>
         <title><![CDATA[Earlyrain Studio]]></title>
         <description><![CDATA[Earlyrain Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/earlyrain-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 18:16:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 00:18:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/earlyrain-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I like to explore
+the use of long exposures to create desired dramatic or subtle effects in
+water, sky or atmospheric perspective. To achieve the drama within the shot, I
+use various neutral density filters and/or graduated filters to control the
+play of light. I prefer to shoot when the light and conditions are at their
+best. This results in great reward or frustration depending on what’s thrown at
+me for light, weather and time.</p>]]></description>
+            <link>https://thegrid.ai/earlyrain-studio/dd95e5bd-67ce-490e-b41b-b09ca3bbcbc9/index.html</link>
+            <guid isPermaLink="false">dd95e5bd-67ce-490e-b41b-b09ca3bbcbc9</guid>
+            <pubDate>Wed, 02 Mar 2016 00:18:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi! I’m Chris!  If you would
@@ -21,7 +34,7 @@ and paintings that make you want to step into the canvas. I have my beautiful
 wife Naomi that supports my efforts to be the best I can be in my work and in
 my life. I have my wonderful children that I am thankful proud of… and I have
 my Lord with whom I walk every day. What more do I need?</p>]]></description>
-            <link>undefineda31c8166-5d24-4664-8bee-65ba506d660a/index.html</link>
+            <link>https://thegrid.ai/earlyrain-studio/a31c8166-5d24-4664-8bee-65ba506d660a/index.html</link>
             <guid isPermaLink="false">a31c8166-5d24-4664-8bee-65ba506d660a</guid>
             <pubDate>Sun, 28 Feb 2016 18:16:06 GMT</pubDate>
         </item>
